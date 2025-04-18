@@ -2,3 +2,5 @@
 * text=auto
 Wardruna/Content/MetaHumans/Common/Face/Face_Archetype.uasset filter=lfs diff=lfs merge=lfs -text
 Wardruna/Content/MetaHumans/Nasim/Face/Nasim_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+Wardruna/Content/MetaHumans/Payton/Face/Payton_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+
